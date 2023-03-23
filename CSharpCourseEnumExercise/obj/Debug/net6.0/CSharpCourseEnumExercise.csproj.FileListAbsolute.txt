@@ -1,0 +1,15 @@
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\bin\Debug\net6.0\CSharpCourseEnumExercise.exe
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\bin\Debug\net6.0\CSharpCourseEnumExercise.deps.json
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\bin\Debug\net6.0\CSharpCourseEnumExercise.runtimeconfig.json
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\bin\Debug\net6.0\CSharpCourseEnumExercise.dll
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\bin\Debug\net6.0\CSharpCourseEnumExercise.pdb
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.csproj.AssemblyReference.cache
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.AssemblyInfoInputs.cache
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.AssemblyInfo.cs
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.csproj.CoreCompileInputs.cache
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.dll
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\refint\CSharpCourseEnumExercise.dll
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.pdb
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\CSharpCourseEnumExercise.genruntimeconfig.cache
+D:\programming\C#\CSharpCourseEnumExercise\CSharpCourseEnumExercise\obj\Debug\net6.0\ref\CSharpCourseEnumExercise.dll
